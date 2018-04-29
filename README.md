@@ -20,7 +20,7 @@ N/A
 ## Unresolved Questions:
  N/A
 ## Resources
-- All recordings were done on [Ubuntu 14.04.4 LTS (Xenial Xerus)](http://releases.ubuntu.com/14.04/) with LICECap
+- All recordings were done on [Ubuntu 14.04.4 LTS (Xenial Xerus)](http://releases.ubuntu.com/14.04/) with LICEcap
 ## License
 
     Copyright [2018] [Ronuel Diaz]
